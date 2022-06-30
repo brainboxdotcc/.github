@@ -1,4 +1,4 @@
-# Creating fun stuff 1993
+# Creating fun stuff since 1993
 
 ![Brainbox.cc Header](bb_header.png)
 
