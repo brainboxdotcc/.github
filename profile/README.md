@@ -1,4 +1,4 @@
-# Making games for the fun of it since 1993
+# Creating fun stuff 1993
 
 ![Brainbox.cc Header](bb_header.png)
 
